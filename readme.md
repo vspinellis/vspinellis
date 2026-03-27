@@ -1,7 +1,7 @@
 # 👋 Marcos Vinicius Spinellis
 
 **Fullstack Developer & Software Architect** 🚀 Criando SaaS e resolvendo problemas reais desde 2014  
-⚡ Foco em performance, escalabilidade e arquitetura limpa  
+⚡ Foco em performance, escalabilidade e arquitetura limpa(quando dá)  
 
 ---
 
