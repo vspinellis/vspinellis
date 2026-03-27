@@ -8,7 +8,7 @@
 ## 🧠 Sobre mim
 
 - 🔭 Trabalho principalmente com **Node.js, React e React Native**
-- ⚙️ Experiência com sistemas escaláveis usando **filas, Redis e PostgreSQL**
+- ⚙️ Melhorias em sistemas usando **filas, Redis e PostgreSQL**
 - 📱 Desenvolvimento mobile com **React Native + Expo**
 - 🌐 Apps modernos com **InertiaJS**
 - 💡 Criando produtos próprios e soluções SaaS há mais de 10 anos
@@ -53,9 +53,6 @@
 
 ### 📊 SaaS Dashboards
 Plataformas com métricas em tempo real, foco em performance e escalabilidade.
-
-### ⚙️ Sistemas com Filas e Alta Carga
-Arquiteturas distribuídas com processamento assíncrono utilizando Redis e filas.
 
 ---
 
